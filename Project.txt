@@ -1,24 +1,34 @@
+STEP:2: 
 GOOGLE SEARCH ENGINE: 
-Three Main Division: 
-       *Top Division 
-       *Middle Division 
-       *Bottom Division 
-TOP DIVISION: 
-       *Google account (sign in) 
-       *Image 
-       *Gmail
-       *Google app 
-       *Customize and Control Google Chrome 
-       *Search Engine 
-       *Reload Page 
-       *New Tab 
-MIDDLE DIVISION: 
- 
-       *Search Engine 
-       *Web Store 
-       *Add Shortcut 
-       *Google Sign in 
-       *Free Video Meeting 
-       *Scroll Bar 
-BOTTOM DIVISION: 
-       *Customize Chrome 
+Three Sub Division: 
+       *Top Sub Division 
+       *Middle Sub Division 
+       *Bottom Sub Division 
+TOP SUB DIVISION: 
+        *Sub Division In (Google App): 
+                (*)Google Sheets 
+                (*)Google Form 
+                (*)Google Map 
+                (*)Google Ads 
+                (*)Google Translate 
+         *Sub Division In (sign in): 
+                 (*)Manage account 
+                 (*)Creat Account 
+                 (*)Manage Profile 
+                 (*)Guest 
+          *Sub Division In (Search Engine): 
+                  (*)Emoji 
+                  (*)URLs 
+MIDDLE SUB DIVISION: 
+           *Sub Division In (Google Search): 
+                  (*)Search by voice 
+                  (*)Emoji 
+                  (*)Writing Direction 
+            *Sub Division In (scroll bar): 
+                  (*)Upward 
+                  (*)Downward 
+BOTTOM SUB DIVISION: 
+            *Sub Division In (Customize Chrome): 
+                   (*)Back Ground 
+                   (*)Colour and Theme 
+                   (*)Customize Page 
