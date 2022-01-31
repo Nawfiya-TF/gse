@@ -1,34 +1,9 @@
-STEP:2: 
 GOOGLE SEARCH ENGINE: 
-Three Sub Division: 
-       *Top Sub Division 
-       *Middle Sub Division 
-       *Bottom Sub Division 
-TOP SUB DIVISION: 
-        *Sub Division In (Google App): 
-                (*)Google Sheets 
-                (*)Google Form 
-                (*)Google Map 
-                (*)Google Ads 
-                (*)Google Translate 
-         *Sub Division In (sign in): 
-                 (*)Manage account 
-                 (*)Creat Account 
-                 (*)Manage Profile 
-                 (*)Guest 
-          *Sub Division In (Search Engine): 
-                  (*)Emoji 
-                  (*)URLs 
-MIDDLE SUB DIVISION: 
-           *Sub Division In (Google Search): 
-                  (*)Search by voice 
-                  (*)Emoji 
-                  (*)Writing Direction 
-            *Sub Division In (scroll bar): 
-                  (*)Upward 
-                  (*)Downward 
-BOTTOM SUB DIVISION: 
-            *Sub Division In (Customize Chrome): 
-                   (*)Back Ground 
-                   (*)Colour and Theme 
-                   (*)Customize Page 
+ICON COLOUR: 
+       *Google Account-Violet colour 
+       *Google Title Bar Theme  -Blue Colour 
+       *Google Emoji -Blue ,Yellow,Red,Green Colour 
+       *Customize chrome -White Colour 
+       *Google voice search  -Blue,Red,Green Colour 
+       *Google apps icon  - Black Colour 
+       *Google home page  - White Colour 
