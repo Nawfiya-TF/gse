@@ -1,0 +1,24 @@
+GOOGLE SEARCH ENGINE: 
+Three Main Division: 
+       *Top Division 
+       *Middle Division 
+       *Bottom Division 
+TOP DIVISION: 
+       *Google account (sign in) 
+       *Image 
+       *Gmail
+       *Google app 
+       *Customize and Control Google Chrome 
+       *Search Engine 
+       *Reload Page 
+       *New Tab 
+MIDDLE DIVISION: 
+ 
+       *Search Engine 
+       *Web Store 
+       *Add Shortcut 
+       *Google Sign in 
+       *Free Video Meeting 
+       *Scroll Bar 
+BOTTOM DIVISION: 
+       *Customize Chrome 
